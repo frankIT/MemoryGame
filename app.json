@@ -1,5 +1,12 @@
 {
+  "name": "MemoryGame",
+  "displayName": "MemoryGame",
   "expo": {
-    "sdkVersion": "25.0.0"
+    "name": "MemoryGame",
+    "slug": "MemoryGame",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
   }
 }
